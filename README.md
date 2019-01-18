@@ -1,2 +1,2 @@
 # Run-In-Rain
-A solution of the problem of a person run in run with C#
+A solution of the problem about a person run in rain with C#
