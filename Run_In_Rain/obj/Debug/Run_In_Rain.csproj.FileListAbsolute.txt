@@ -1,0 +1,9 @@
+c:\users\asus-pc\Documents\Visual Studio 2013\Projects\Run_In_Rain\Run_In_Rain\bin\Debug\Run_In_Rain.exe.config
+c:\users\asus-pc\Documents\Visual Studio 2013\Projects\Run_In_Rain\Run_In_Rain\bin\Debug\Run_In_Rain.exe
+c:\users\asus-pc\Documents\Visual Studio 2013\Projects\Run_In_Rain\Run_In_Rain\bin\Debug\Run_In_Rain.pdb
+c:\users\asus-pc\Documents\Visual Studio 2013\Projects\Run_In_Rain\Run_In_Rain\obj\Debug\Run_In_Rain.csprojResolveAssemblyReference.cache
+c:\users\asus-pc\Documents\Visual Studio 2013\Projects\Run_In_Rain\Run_In_Rain\obj\Debug\Run_In_Rain.Properties.Resources.resources
+c:\users\asus-pc\Documents\Visual Studio 2013\Projects\Run_In_Rain\Run_In_Rain\obj\Debug\Run_In_Rain.csproj.GenerateResource.Cache
+c:\users\asus-pc\Documents\Visual Studio 2013\Projects\Run_In_Rain\Run_In_Rain\obj\Debug\Run_In_Rain.exe
+c:\users\asus-pc\Documents\Visual Studio 2013\Projects\Run_In_Rain\Run_In_Rain\obj\Debug\Run_In_Rain.pdb
+c:\users\asus-pc\Documents\Visual Studio 2013\Projects\Run_In_Rain\Run_In_Rain\obj\Debug\Run_In_Rain.Form1.resources
